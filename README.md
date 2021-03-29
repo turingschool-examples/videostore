@@ -1,3 +1,11 @@
+# Instructions
+- `git checkout main` in your terminal
+- run the `bundle` command to get the gems from the gemfile
+
+## What is this?
+- This is a refactoring exercise where your main goal is to simply reogranize the code to make it more readable.
+
+
 Video Store refactoring exercise in ruby
 ========================================
 
